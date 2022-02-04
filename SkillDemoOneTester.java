@@ -5,6 +5,6 @@ public class SkillDemoOneTester {
     
     @Test
     public void testSquareNumber(){
-        assertEquals("this is failing test", 48, SkillDemoOne.squareNumber(7));
+        assertEquals("this is failing test", 49, SkillDemoOne.squareNumber(7));
     }
 }
